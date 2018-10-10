@@ -7,7 +7,7 @@
 * Test Case Name:
   * #3
 * Component: 
-  * Select a character to play
+  * Character Select
 * Test Case Designer:
   * Felicia Rodriguez
 * Creation Date:
