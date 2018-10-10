@@ -25,16 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |Pause initiate |Does pause happen when button is pressed |√ |			
+| 2 |Pause functional |Is game still playing in background |√ |			
+		
 
 ## Overall Test Status:
 
@@ -43,6 +36,6 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |10/9/2018 |Nelson Burrow |PASS |			
+| 2 |10/9/2018 |Felicia Rodriguez |PASS |			
+
