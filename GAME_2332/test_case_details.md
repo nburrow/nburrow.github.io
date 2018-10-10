@@ -3,25 +3,25 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #3.2
 * Test Case Name:
-  * #Number
+  * #3
 * Component: 
-  * Description
+  * Select a character to play
 * Test Case Designer:
-  * Name
+  * Felicia Rodriguez
 * Creation Date:
-  * Date
+  * 10/9/2018
 * Modified By:
-  * Name
+  * Nelson Burrow
 * Modified Date:
-  * Date
+  * 10/9/2018
 * Requirements Covered:
-  * Description
+  * Select a charcter to play
 * Test Description/Purpose:
-  * Description
+  * The user must be able to select a player to play as in the game
 * Pre-Test Conditions:
-  * Description
+  * There must be six character the user can choose
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
