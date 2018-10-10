@@ -32,11 +32,9 @@
 
 ## Overall Test Status:
 
-
-
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 10/9/2018 | Nelson Burrow |Pass|			
+| 2 | 10/9/2018 | Nelson Burrow |Pass|			
+| 3 | 10/9/2018 | Felicia Rodriguez |Pass|			
