@@ -25,9 +25,9 @@ hi
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |Select a character to play | | |			
+| 2 |Pause the game | | |			
+| 3 | Stop the Music | | |			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
