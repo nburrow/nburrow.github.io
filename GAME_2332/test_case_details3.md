@@ -3,38 +3,32 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #3.9
 * Test Case Name:
-  * #Number
+  * #3
 * Component: 
-  * Description
+  * Music
 * Test Case Designer:
-  * Name
+  * Felicia Rodriguez/Nelson Burrow
 * Creation Date:
-  * Date
+  * 10/9/2018
 * Modified By:
-  * Name
+  * Felicia Rodriguez/Nelson Burrow
 * Modified Date:
-  * Date
+  * 10/9/2018
 * Requirements Covered:
-  * Description
+  * Music Driver
 * Test Description/Purpose:
-  * Description
+  * Make sure music stops when initiated
 * Pre-Test Conditions:
-  * Description
+  * Music Driver must work for both story and build mode
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |Stop Music |Music stops when button is pressed |√ |			
+| 2 |Music completely stopped |the music volume is not just down, the music is stopped  | √|			
+| 3 |Music Static |Music stopped on the same track/chord |√ |			
+	
 
 ## Overall Test Status:
 
@@ -43,6 +37,6 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 10/9/2018 | Nelson Burrow |Pass|			
-| 2 | 10/9/2018 | Nelson Burrow |Pass|			
-| 3 | 10/9/2018 | Felicia Rodriguez |Pass|			
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |			
