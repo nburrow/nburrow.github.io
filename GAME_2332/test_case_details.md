@@ -26,8 +26,8 @@
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 |Select a character to play |The user must be able to select a player to play as in the game |√|			
-| 2 |Pause the game |Pausing the game, so nothing can happen in the game while the user is away |√|			
-| 3 | Stop the Music |Stops all music that is playing |√|			
+| 2 |Select set of puzzles |Choosing specific character unlocks their unique puzzle set |√|			
+| 3 | Correct character and puzzle |When starting the game the chosen character and puzzle both pull up |√|			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
