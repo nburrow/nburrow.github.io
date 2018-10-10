@@ -3,25 +3,25 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #3.5
 * Test Case Name:
-  * #Number
+  * #3
 * Component: 
-  * Description
+  * Pause the game
 * Test Case Designer:
-  * Name
+  * Nelson Burrow
 * Creation Date:
-  * Date
+  * 10/9/2018
 * Modified By:
-  * Name
+  * Felicia Rodriguez
 * Modified Date:
-  * Date
+  * 10/9/2018
 * Requirements Covered:
-  * Description
+  * Ensure that nothing happens when user has paused game
 * Test Description/Purpose:
-  * Description
+  * Make sure nothing happens while user is away
 * Pre-Test Conditions:
-  * Description
+  * Must be in Story Mode
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
